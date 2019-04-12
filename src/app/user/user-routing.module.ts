@@ -19,5 +19,5 @@ export const ROUTES: Routes = [
         AuthenticationGuard
     ]
 })
-export class AuthenticationRouting {
+export class UserRoutingModule {
 }
